@@ -1,6 +1,6 @@
 const NavBar = ({user}) => {
 
-    const providers = ['twitter', 'github', 'aad', 'facebook', 'google'];
+    const providers = ['twitter', 'github', 'aad', 'facebook', 'google', 'kakao'];
     const redirect = `/`;
 
     return (
